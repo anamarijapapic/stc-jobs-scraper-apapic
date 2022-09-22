@@ -1,0 +1,14 @@
+{
+    "name": "anamarija/stc-jobs-scraper",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Anamarija Papic",
+            "email": "anamarija.papic@agilo.co"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "phpoffice/phpspreadsheet": "^1.24"
+    }
+}
